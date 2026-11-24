@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:24/11/2026
+## Reference Number:26015155
+## Name:Tharun Sivanandam S
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -26,27 +26,30 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+Develop a digital platform that connects farmers directly with customers and bulk buyers. It will help farmers sell their products at better prices.
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+Develop a simple website or mobile application.
+
+Use basic AI technology to predict product demand.
+
+Provide delivery and transport support.
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+The platform can be developed using existing technologies.
+
+Farmers and customers can easily use it.
+
+Proper internet access and delivery facilities are required.
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+Farmers can earn more money.
+
+Consumers can buy products at lower prices.
+
+Reduces the number of middlemen.
+
+Saves time and reduces food wastage.
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+https://www.researchgate.net/publication/361387215_Constraints_Faced_by_Farmers_and_Intermediaries_to_Getting_Minimum_Support_Price_MSP_in_Haryana
